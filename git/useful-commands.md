@@ -14,7 +14,10 @@
 
 - Push the latest changes up to github
 ```
+git add .
 git commit -m "Descriptive commit message here"
 git push --all
 ```
-
+	- add . adds all files
+	- commit commits the files, -m sets the commit message
+	- push --all pushes the changes to github
