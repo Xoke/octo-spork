@@ -1,4 +1,5 @@
 # Podcasts I listen to (in alphabetical order)
+I listen to these at double speed or so (depending on the podcast) using the wonder [Podcast Addict](play.google.com/store/apps/details?id=com.bambuna.podcastaddict) app
 
 ## Security
 - [2 Minute CyberSecurity Briefing](https://www.bvsystems.com/podcastgen2/ )
@@ -49,13 +50,13 @@
 - [RunAs Radio](http://www.runasradio.com/ )
 
 ## Self Improvement
-- [Domestic CEO's Quick &amp; Dirty Tips to Managing Your Home](http://www.quickanddirtytips.com/domestic-ceo/ )
-- [Get-It-Done Guy's Quick and Dirty Tips to Work Less and Do More](http://www.getitdoneguy.com/ )
-- [Money Girl's Quick and Dirty Tips for a Richer Life](http://www.quickanddirtytips.com/money-girl/ )
+- [Domestic CEO](http://www.quickanddirtytips.com/domestic-ceo/ )
+- [Get-It-Done Guy](http://www.getitdoneguy.com/ )
+- [Money Girl](http://www.quickanddirtytips.com/money-girl/ )
 - [The Art of Charm](http://www.TheArtOfCharmPodcast.com/ )
 - [The Public Speaker](http://publicspeaker.quickanddirtytips.com/ )
 - [The Savvy Psychologist](http://www.quickanddirtytips.com/savvy-psychologist/ )
-- [The Social-Engineer Podcast](http://www.social-engineer.org/category/podcast/ )
+- [The Social-Engineer](http://www.social-engineer.org/category/podcast/ )
 
 ## Audio Dramas
 - [Elite: Escape Velocity](http://escapevelocity.laveradio.com/ )
