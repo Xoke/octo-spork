@@ -1,0 +1,2 @@
+- [DFIR - The Definitive Compendium Project - ](http://aboutdfir.com/)
+- [Free automated malware analysys](https://www.reverse.it/)
