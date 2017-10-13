@@ -1,5 +1,5 @@
 # Podcasts I listen to (in alphabetical order)
-I listen to these at double speed or so (depending on the podcast) using the wonder [Podcast Addict](play.google.com/store/apps/details?id=com.bambuna.podcastaddict) app
+I listen to these at double speed or so (depending on the podcast) using the wonderfull [Podcast Addict](play.google.com/store/apps/details?id=com.bambuna.podcastaddict) app.  [This is his patreon](https://www.patreon.com/podcastaddict)
 
 ## Security
 - [2 Minute CyberSecurity Briefing](https://www.bvsystems.com/podcastgen2/ )
