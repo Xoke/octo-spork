@@ -7,3 +7,4 @@
 - **PDF WARNING** [NICE Cybersecurity Workforce Framework](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181.pdf) - National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework
 - [Audit Scripts](http://www.auditscripts.com/)
 - [Cybersecurity Essential Reading](https://cybercanon.paloaltonetworks.com/)
+- [Canary Tokens](https://canarytokens.org/generate) put a [canary](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases) token on your network / email / database
