@@ -6,28 +6,28 @@
 (my list)
 
 - Visit stations / objects
-  - * Jacques Station
+  - ✔ Jacques Station
   - Terry Pratchett
   - Douglas Adams
   - Ridley Scott
-  - * Lave Radio Sidewinder
+  - ✔ Lave Radio Sidewinder
   - Voyagers
   - ??
 - Various Jobs
-  - * Trader
+  - ✔ Trader
   - Explorer
     - Discover a new planet
-  - * Passenger Liner
-  - * Bounty Hunter
+  - ✔ Passenger Liner
+  - ✔ Bounty Hunter
   - Smuggler
   - ??
 - Engineers stuff
 - Get various ships
-  - * Python (best all-round medium sized ship?)
+  - ✔ Python (best all-round medium sized ship?)
   - Combat - Vulture?
-  - * Explorer - Asp Explorer
+  - ✔ Explorer - Asp Explorer
   - The big one ('Conda)
-  - * El Cheapo (Suicidewinder)
+  - ✔ El Cheapo (Suicidewinder)
   - Something with a fighter?
 - Get Elite in something, visit pilots federation system
 - Meet a thargoid?
