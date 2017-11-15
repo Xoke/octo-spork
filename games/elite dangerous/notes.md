@@ -28,4 +28,7 @@
   - * Explorer - Asp Explorer
   - The big one ('Conda)
   - * El Cheapo (Suicidewinder)
+  - Something with a fighter?
 - Get Elite in something, visit pilots federation system
+- Meet a thargoid?
+- Visit the AEGIS bases?
