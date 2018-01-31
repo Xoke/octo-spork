@@ -2,7 +2,7 @@
 
 Xoke's Notes on stuff
 
-These are just my notes on various things IT related
+These are just my notes on various things IT related (and some non-IT related things also)
 
 ## Questions
 - Why octo spork?

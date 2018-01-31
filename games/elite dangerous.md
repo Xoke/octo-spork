@@ -29,7 +29,7 @@
   - The big one ('Conda)
   - ✔ El Cheapo (Suicidewinder)
   - ✔ Cobra Mk 3 because Original Elite
-  - Something with a fighter?
+  - Something with a fighter? (the Keelback as the cheapest?)
 - Get Elite in something, visit pilots federation system
 - Meet a thargoid?
 - Visit the AEGIS bases?
