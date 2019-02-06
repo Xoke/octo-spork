@@ -9,6 +9,14 @@
 - https://www.htbridge.com/radar/
 - https://urlscan.io
 - https://inteltechniques.com/menu.html
+- https://panopticlick.eff.org/
+- https://www.deviceinfo.me/
+- https://browseraudit.com
+- https://browserleaks.com/
+- https://detectmybrowser.com/
+- https://ipleak.net
+- https://www.dnsleaktest.com/
+- https://www.emailprivacytester.com
 
 ## Checks
 
