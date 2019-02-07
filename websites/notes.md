@@ -17,6 +17,7 @@
 - https://ipleak.net
 - https://www.dnsleaktest.com/
 - https://www.emailprivacytester.com
+- https://app.any.run/
 
 ## Checks
 
