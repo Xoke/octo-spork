@@ -18,6 +18,7 @@
 - https://www.dnsleaktest.com/
 - https://www.emailprivacytester.com
 - https://app.any.run/
+- https://gchq.github.io/CyberChef
 
 ## Checks
 
