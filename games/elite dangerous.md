@@ -1,6 +1,8 @@
 - [Coriolis Ship Builder](https://coriolis.edcd.io)
+- [Better than Coriolis Ship Builder?  EDSY](https://edsy.org)
 - [Elite Trading Network](http://etn.io/)
 - [Weapons Damage tests](https://forums.frontier.co.uk/showthread.php?t=140240)
+- [Inara Tech Broker](https://inara.cz/galaxy-techbroker/)
 
 ## Things to do
 (my list)
@@ -26,6 +28,7 @@
   - Set phasers to long range!
 - Guardian Tech
   - Get the blueprints
+    - [Article here](https://forums.frontier.co.uk/threads/walkthrough-guardian-module-blueprints.438289/#post6856649)
   - Crank up those engines even more!
 - Get various ships
   - ✔ Python (best all-round medium sized ship?)
@@ -37,5 +40,6 @@
   - Something with a fighter? (the Keelback as the cheapest?)
   - ✔ Fer-De-Lance
 - Get Elite in something, visit pilots federation system
+  - Do exploration?  [Road to Riches](http://edtools.ddns.net/expl.php)
 - Meet a thargoid?
 - Visit the AEGIS bases?
