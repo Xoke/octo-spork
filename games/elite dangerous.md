@@ -22,14 +22,20 @@
   - Smuggler
   - ??
 - Engineers stuff
+  - Crank up those engines!
+  - Set phasers to long range!
+- Guardian Tech
+  - Get the blueprints
+  - Crank up those engines even more!
 - Get various ships
   - ✔ Python (best all-round medium sized ship?)
-  - Combat - Vulture?
+  - ✔ Combat - Vulture
   - ✔ Explorer - Asp Explorer
-  - The big one ('Conda)
+  - ✔The big one ('Conda)
   - ✔ El Cheapo (Suicidewinder)
   - ✔ Cobra Mk 3 because Original Elite
   - Something with a fighter? (the Keelback as the cheapest?)
+  - ✔ Fer-De-Lance
 - Get Elite in something, visit pilots federation system
 - Meet a thargoid?
 - Visit the AEGIS bases?
