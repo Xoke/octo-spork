@@ -14,7 +14,11 @@
   - Ridley Scott
   - ✔ Lave Radio Sidewinder
   - Voyagers
+  - Visit the generational ships
   - ??
+  - Meet a thargoid?
+  - Visit the AEGIS bases?
+  - Visit pilots federation system
 - Various Jobs
   - ✔ Trader
   - Explorer
@@ -27,19 +31,17 @@
   - Crank up those engines!
   - Set phasers to long range!
 - Guardian Tech
-  - Get the blueprints
+  - [2/6] Get the blueprints
     - [Article here](https://forums.frontier.co.uk/threads/walkthrough-guardian-module-blueprints.438289/#post6856649)
-  - Crank up those engines even more!
+  - ✔ Crank up those engines even more!
 - Get various ships
   - ✔ Python (best all-round medium sized ship?)
   - ✔ Combat - Vulture
   - ✔ Explorer - Asp Explorer
-  - ✔The big one ('Conda)
+  - ✔ The big one ('Conda)
   - ✔ El Cheapo (Suicidewinder)
   - ✔ Cobra Mk 3 because Original Elite
   - Something with a fighter? (the Keelback as the cheapest?)
   - ✔ Fer-De-Lance
-- Get Elite in something, visit pilots federation system
+- Get Elite in something
   - Do exploration?  [Road to Riches](http://edtools.ddns.net/expl.php)
-- Meet a thargoid?
-- Visit the AEGIS bases?
