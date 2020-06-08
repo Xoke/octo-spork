@@ -40,3 +40,17 @@ From https://www.youtube.com/watch?v=dh6WMhuC93U
 6. TM-02 Khanjali almost 4 mill.  A Tank
 7. Hydra, again almost 4 mill.  Harrier Jump Jet
 8. Karin Karuma (Armoured) or the Duke of Death
+
+
+## Money
+- Treasure hunt / head hunting missions are easy money
+  - Email with picture, get the wild west pistol.  50 headshots for 250K
+  - Text from Maude.  Kill the people, get axe.  50 kills for 250K
+  - Navy Revolver one.  More huting, then kill the guy.  50 kills for 250K
+- Heists order (for bonus money)
+  1 Fleeca heist
+  2 Prison break heist
+  3 Humane labs heist
+  4 Series A funding heist
+  5 Pacific Standard heist
+- 
