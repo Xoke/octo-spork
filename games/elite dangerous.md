@@ -15,10 +15,11 @@
   - ✔ Lave Radio Sidewinder
   - Voyagers
   - Visit the generational ships
-  - ??
-  - Meet a thargoid?
-  - Visit the AEGIS bases?
+  - Meet a thargoid.  And kill it?
+  - Visit the AEGIS bases
   - Visit pilots federation system
+  - See Commander Jameson's crash site
+  - Colonia
 - Various Jobs
   - ✔ Trader
   - Explorer
@@ -43,5 +44,6 @@
   - ✔ Cobra Mk 3 because Original Elite
   - Something with a fighter? (the Keelback as the cheapest?)
   - ✔ Fer-De-Lance
+  - Carrier?
 - Get Elite in something
-  - Do exploration?  [Road to Riches](http://edtools.ddns.net/expl.php)
+  - Do exploration?  [Road to Riches](https://spansh.co.uk/riches/) (Updated to the Spansh site)

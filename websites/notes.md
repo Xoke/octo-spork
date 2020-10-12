@@ -19,6 +19,7 @@
 - https://www.emailprivacytester.com
 - https://app.any.run/
 - https://gchq.github.io/CyberChef
+- https://themarkup.org/blacklight
 
 ## Checks
 

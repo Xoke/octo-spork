@@ -1,1 +1,2 @@
 - Don't use write-host (as per [Mr. Snover](http://www.jsnover.com/blog/2013/12/07/write-host-considered-harmful/))
+- Or maybe do, because Lee Holmes said they are fixing it
