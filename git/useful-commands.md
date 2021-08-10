@@ -27,3 +27,5 @@ git push --all
 - add . adds all files
 - commit commits the files, -m sets the commit message
 - push --all pushes the changes to github
+
+Or use git-desktop because GUI...
