@@ -1,0 +1,3 @@
+btop++
+neofetch
+wttr.in

@@ -1,5 +1,9 @@
 Extensions I use / am evaluating
 
+- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) or [LastPass](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/) for a password manager
+- 
+
+
 - au-revoir-utm - this strips the UTM_Source from urls
 - Cookies Manager+ - edit / create cookies
 - Disconnect - increases privacy
