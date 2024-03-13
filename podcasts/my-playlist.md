@@ -18,7 +18,8 @@ I listen to these at double speed or so (depending on the podcast) using the won
 * Cyber Security Headlines
 * Darknet Diaries
 * The Greatest Generation
-* Hacked Hacker Public Radio
+* Hacked
+* Hacker Public Radio
 * Hacking Humans
 * Lave Radio: an Elite Dangerous podcast
 * LeVar Burton Reads
