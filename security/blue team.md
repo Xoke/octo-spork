@@ -8,6 +8,7 @@
 * [Audit Scripts](http://www.auditscripts.com/)
 * [Cybersecurity Essential Reading](https://cybercanon.paloaltonetworks.com/)
 * [Canary Tokens](https://canarytokens.org/generate) put a [canary](https://en.wikipedia.org/wiki/Sentinel\_species#Toxic\_gases) token on your network / email / database
+* [Project Discovery Tool Manager](https://github.com/projectdiscovery/pdtm)
 
 ## To Sort
 
@@ -17,3 +18,6 @@
 * [spiderfoot](https://github.com/smicallef/spiderfoot)
 * maltego
 * recon-ng
+* [https://ghidra-sre.org/](https://ghidra-sre.org/)
+* [https://x64dbg.com/](https://x64dbg.com/)
+*
