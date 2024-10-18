@@ -10,3 +10,9 @@
 ## Checks
 
 * [Mx Toolbox Domain health Report](https://mxtoolbox.com/domain/)
+
+## To Sort
+
+* [https://openguessr.com/](https://openguessr.com/)
+* [https://csilinux.com/](https://csilinux.com/)
+*
