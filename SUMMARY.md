@@ -8,6 +8,7 @@
   * [Torn](games/torn.md)
   * [Grand Theft Auto V Online](games/GTA-Online.md)
   * [Others](games/others.md)
+  * [Minecraft](games/minecraft.md)
 * [general](general/README.md)
   * [Scratch](general/Scratch.md)
   * [To Look At](<general/To Look At.md>)
