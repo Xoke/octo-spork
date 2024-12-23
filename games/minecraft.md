@@ -9,4 +9,9 @@ General setup:
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * Copy that path, and after you download Optifine into the MODS subfolder
+* In curseforge, add shaders (I'm currently using 'ComplementaryReimagined')
+* Add any other mods
+  * Xaero's Minimap
+  * Tree Harvester
+* Then within minecraft set up optifine (enable it, and check performance settings)
 
