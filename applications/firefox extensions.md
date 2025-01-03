@@ -1,6 +1,10 @@
+---
+description: 'Last Updated: 2024-01-18'
+---
+
 # firefox extensions
 
-Extensions I use / am evaluating
+[Extensions I use all in one collection](https://addons.mozilla.org/en-US/firefox/collections/xoke/xoke/) (but they are):
 
 * [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Password manager
 * ClearURLs - remove tracking from URLs
@@ -27,4 +31,3 @@ Extensions I use / am evaluating
 * uBlock Origin - Adblocker
 * User-Agent Switcher and Manager - change your user agent
 
-Grab them all from [my collection](https://addons.mozilla.org/en-US/firefox/collections/xoke/xoke/)

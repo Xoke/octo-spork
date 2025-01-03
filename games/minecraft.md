@@ -13,5 +13,6 @@ General setup:
 * Add any other mods
   * Xaero's Minimap
   * Tree Harvester
+  * Clumps
 * Then within minecraft set up optifine (enable it, and check performance settings)
 
