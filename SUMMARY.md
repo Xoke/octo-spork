@@ -27,6 +27,7 @@
   * [General security tips for the individual](<security/individual info.md>)
   * [osint](security/osint.md)
   * [Disclaimer: I am not a pen tester!](security/pentest.md)
+  * [Phishing Replies](security/phishing-replies.md)
 * [websites](websites/README.md)
   * [Useful websites](websites/notes.md)
 * [operating systems](<operating systems/README.md>)
