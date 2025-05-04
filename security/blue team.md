@@ -25,4 +25,5 @@
 * [https://github.com/vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 * [https://grep.app/search?words=true](https://grep.app/search?words=true)
 * [https://www.criminalip.io/](https://www.criminalip.io/)
+* [https://github.com/shadowbq/Cheat-Sheets](https://github.com/shadowbq/Cheat-Sheets)
 *
