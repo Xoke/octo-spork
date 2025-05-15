@@ -15,4 +15,7 @@
 
 * [https://openguessr.com/](https://openguessr.com/)
 * [https://csilinux.com/](https://csilinux.com/)
+* [https://earth.nullschool.net/](https://earth.nullschool.net/)
+* [https://downdetector.com/](https://downdetector.com/)
+* [https://www.simplycyber.io/](https://www.simplycyber.io/)
 *
