@@ -18,4 +18,5 @@
 * [https://earth.nullschool.net/](https://earth.nullschool.net/)
 * [https://downdetector.com/](https://downdetector.com/)
 * [https://www.simplycyber.io/](https://www.simplycyber.io/)
-*
+* [https://archives.phrack.org/issues/7/3.txt](https://archives.phrack.org/issues/7/3.txt) The Conscience of a Hacker
+* [https://qdb.lol/top](https://qdb.lol/top)
