@@ -16,3 +16,9 @@ General setup:
   * Clumps
 * Then within minecraft set up optifine (enable it, and check performance settings)
 
+
+
+I've also been testing out Prism
+
+* Install sodium, iris shaders, and then whichever shader which is a lot easier than optifine!
+
