@@ -20,3 +20,4 @@
 * [https://www.simplycyber.io/](https://www.simplycyber.io/)
 * [https://archives.phrack.org/issues/7/3.txt](https://archives.phrack.org/issues/7/3.txt) The Conscience of a Hacker
 * [https://qdb.lol/top](https://qdb.lol/top)
+* [https://octobrowser.net/](https://octobrowser.net/)
