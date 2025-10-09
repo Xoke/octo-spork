@@ -22,11 +22,27 @@ Company
 
 ***
 
+Alert! You’ve activated the Alien Intrusion Alarm and stopped a cosmic-level phishing attempt 👽
+
+![Thumbnail](../.gitbook/assets/Thumbnail)
+
+Disclaimer: Alarm does not notify actual aliens. Any resemblance to Area 51 protocols is purely coincidental.
+
+***
+
 Hooray! You’ve received the Cyber Astronaut’s Helmet for launching that phishing email into space.
 
 <figure><img src="../.gitbook/assets/image001.jpg" alt=""><figcaption></figcaption></figure>
 
 _Disclaimer: This helmet does not provide actual space travel capabilities. It won't help you visit the moon or communicate with aliens. Use your helmet wisely!_
+
+***
+
+Cheers, Mate! You’ve received the Aussie BBQ Master’s Tongs for grilling that phishing email. 🍖
+
+![](../.gitbook/assets/unknown.png)
+
+Disclaimer: These tongs do not grant actual BBQ skills. They won’t help you cook the perfect steak or host a backyard BBQ. Use your tongs wisely!
 
 ***
 
@@ -38,11 +54,19 @@ _Disclaimer: Not an actual endorsement from Bill Murray and cannot be used in an
 
 ***
 
-&#x20;Ahoy, Matey! You've earned the Pirate's Treasure Chest for capturing that phishing scam.
+G'day! You’ve unlocked the Outback Explorer’s Boomerang for catching that phishing email.
 
-<figure><img src="../.gitbook/assets/image001 (2).jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/unknown (1).png>)
 
-_Disclaimer: This treasure chest does not contain real gold or doubloons. It won't help you buy a pirate ship or find buried treasure. Use your loot wisely!_
+Disclaimer: This boomerang does not grant actual boomerang-throwing skills. It won’t help you catch kangaroos or navigate the outback. Use your boomerang wisely!
+
+***
+
+Cheers! You've been awarded the Cyber Celtic Knot of Wisdom for thwarting that phishing attempt.
+
+![](<../.gitbook/assets/unknown (2).png>)
+
+Disclaimer: This knot does not grant ancient druidic knowledge or the ability to speak Gaelic. It excels only in digital wisdom.
 
 ***
 
@@ -59,6 +83,86 @@ Good catch! Thanks for reporting the phishing email, have a cookie
 <figure><img src="../.gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
 
 _Disclaimer: Cookie has no monetary value.  Void where prohibited by law.  One cookie per phishing email per user.  Email processed in a facility that contains nuts.  Not a source of fiber unless printed out and eaten.  Do not eat_
+
+***
+
+Good catch!  Thanks for reporting the phishing email, have a cookie
+
+![](../.gitbook/assets/unknown.jpeg)
+
+Disclaimer: Cookie has no monetary value.  Void where prohibited by law.  One cookie per phishing email per user.  Email processed in a facility that contains nuts.  Not a source of fiber unless printed out and eaten.  Do not eat
+
+***
+
+Crikey! You’ve earned the Crocodile Hunter’s Hat for wrestling that phishing attempt. 🐊
+
+![](<../.gitbook/assets/unknown (3).png>)
+
+Disclaimer: This hat does not grant actual crocodile-wrestling skills. It won’t help you tame wild animals or survive in the bush. Use your hat wisely!
+
+***
+
+Crikey! You’ve earned the Crocodile Hunter’s Hat for wrestling that phishing attempt. 🐊
+
+![](<../.gitbook/assets/unknown (4).png>)
+
+Disclaimer: This hat does not grant actual crocodile-wrestling skills. It won’t help you tame wild animals or survive in the bush. Use your hat wisely!
+
+***
+
+Eureka! You’ve discovered the Cyber Archaeologist’s Shovel for digging up that phishing email.
+
+![Thumbnail](<../.gitbook/assets/Thumbnail (1)>)
+
+Disclaimer: This shovel does not grant actual archaeological skills. It won’t help you find ancient ruins or decipher hieroglyphics. Use your shovel wisely!
+
+***
+
+Cheers! You’ve been awarded the Cyber Artist’s Palette for painting a defense against that phishing scam.
+
+![Thumbnail](<../.gitbook/assets/Thumbnail (2)>)
+
+Disclaimer: This palette does not grant actual artistic skills. It won’t help you create a masterpiece or become a famous artist. Use your palette wisely!
+
+***
+
+Bravo! You’ve unlocked the Cyber Chef’s Golden Spatula for cooking up a defense against that phishing email.
+
+![Thumbnail](<../.gitbook/assets/Thumbnail (3)>)
+
+Disclaimer: This spatula does not grant actual culinary skills. It won’t help you make a gourmet meal or win a cooking show. Use your spatula wisely!
+
+***
+
+Congratulations! You’ve received the Cyber Explorer’s Compass for navigating through that phishing email.
+
+![Thumbnail](<../.gitbook/assets/Thumbnail (4)>)
+
+Disclaimer: This compass does not grant actual navigation skills. It won’t help you find hidden treasures or navigate through jungles. Use your compass wisely!
+
+***
+
+Hooray! You’ve earned the Cyber Gardener’s Green Thumb for weeding out that phishing attempt.
+
+![Thumbnail](<../.gitbook/assets/Thumbnail (5)>)
+
+Disclaimer: This green thumb does not grant actual gardening skills. It won’t help you grow a lush garden or talk to plants. Use your green thumb wisely!
+
+***
+
+Whoa there, Cyber Wrangler! You’ve lassoed a phishing attempt like a true digital cowboy 🤠
+
+![Thumbnail](<../.gitbook/assets/Thumbnail (6)>)
+
+Disclaimer: Horse not included. This award does not grant ranching privileges or access to secure Wi-Fi in the Wild West.
+
+***
+
+Kudos! You’ve unlocked the Cybersecurity Gardener’s Badge for weeding out that phishing email.
+
+![Thumbnail](<../.gitbook/assets/Thumbnail (7)>)
+
+Disclaimer: This badge does not improve your gardening skills or grant a green thumb. It excels only in digital horticulture.
 
 ***
 
@@ -86,11 +190,27 @@ _Disclaimer: Duck is not a licensed financial advisor, therapist, or life coach.
 
 ***
 
+Boom! You’ve earned the Exploding Firewall Trophy for stopping that suspicious link in its tracks 💥
+
+![Thumbnail](<../.gitbook/assets/Thumbnail (9)>)
+
+Disclaimer: This trophy does not come with actual explosive capabilities. Please do not attempt to detonate your router. Confetti not included.
+
+***
+
 Greetings, Earthling! You’ve been awarded the Galactic Defender Badge for thwarting that phishing attempt
 
 <figure><img src="../.gitbook/assets/download (2).png" alt=""><figcaption></figcaption></figure>
 
 _Disclaimer: This badge does not grant interstellar travel privileges or the ability to communicate with extraterrestrials.  Any spelling errors are due to translation from galactic standard and not due to using AI to create image_
+
+***
+
+Bonza! You’ve discovered the Great Barrier Reef Diver’s Mask for diving into that phishing email. 🐠
+
+![](<../.gitbook/assets/unknown (6).png>)
+
+Disclaimer: This mask does not grant actual diving skills. It won’t help you explore the Great Barrier Reef or swim with fish. Use your mask wisely!
 
 ***
 
@@ -102,19 +222,19 @@ Disclaimer: This shield offers no real protection against dragons or malware. It
 
 ***
 
+Strewth! You’ve been awarded the Koala’s Cuddly Award for spotting that phishing scam. 🐨
+
+![](<../.gitbook/assets/unknown (7).png>)
+
+Disclaimer: This award does not grant actual koala-cuddling skills. It won’t help you climb trees or eat eucalyptus leaves. Use your cuddly award wisely!
+
+***
+
 Bravo! You’ve unlocked the Cyber Ninja Stealth Award for catching that phishing email.
 
 <figure><img src="../.gitbook/assets/download (3).png" alt=""><figcaption></figcaption></figure>
 
 Disclaimer: This award does not grant actual ninja skills. It won’t help you sneak past your boss or disappear during meetings. Use your stealth wisely!
-
-***
-
-Ahoy, Matey! You've unlocked the Pirate's Parrot Award for spotting that phishing scam.  Avast ye!
-
-<figure><img src="../.gitbook/assets/image001 (5).jpg" alt=""><figcaption></figcaption></figure>
-
-_Disclaimer: This parrot does not grant the ability to speak pirate or find buried treasure. It excels only in squawking wisdom._
 
 ***
 
@@ -134,11 +254,27 @@ _Disclaimer: Map leads only to imaginary treasure chests filled with digital dou
 
 ***
 
+Ahoy, Matey! You've unlocked the Pirate's Parrot Award for spotting that phishing scam. 🦜 Avast ye!
+
+![](<../.gitbook/assets/unknown (1).jpeg>)
+
+Disclaimer: This parrot does not grant the ability to speak pirate or find buried treasure. It excels only in squawking wisdom.
+
+***
+
 Cheers! You've been awarded the Digital Pirate's Treasure for spotting that phishing email.
 
 <figure><img src="../.gitbook/assets/image001 (6).jpg" alt=""><figcaption></figcaption></figure>
 
 _Disclaimer: This treasure does not include real gold, jewels, or pirate ships. It's purely for your digital vigilance._
+
+***
+
+Ahoy, Matey! You’ve earned the Pirate’s Treasure Chest for capturing that phishing scam. 🏴‍☠️
+
+![](<../.gitbook/assets/unknown (2).jpeg>)
+
+Disclaimer: This treasure chest does not contain real gold or doubloons. It won’t help you buy a pirate ship or find buried treasure. Use your loot wisely!
 
 ***
 
@@ -155,6 +291,14 @@ Eureka! You've discovered the Cybersecurity Scientist's Flask for identifying th
 <figure><img src="../.gitbook/assets/image001 (8).jpg" alt=""><figcaption></figcaption></figure>
 
 _Disclaimer: This flask contains no actual scientific breakthroughs. It won't help you create a potion for infinite coffee or solve complex equations. Use your discoveries wisely!_
+
+***
+
+Congratulations! You’ve unlocked the Ancient Scroll of Cyber Wisdom for reporting that shady email 📜
+
+![Thumbnail](<../.gitbook/assets/Thumbnail (10)>)
+
+Disclaimer: Scroll may not be accepted by actual wizards or IT auditors. Reading it aloud will not summon tech support.
 
 ***
 
