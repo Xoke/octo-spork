@@ -21,3 +21,4 @@
 * [https://archives.phrack.org/issues/7/3.txt](https://archives.phrack.org/issues/7/3.txt) The Conscience of a Hacker
 * [https://qdb.lol/top](https://qdb.lol/top)
 * [https://octobrowser.net/](https://octobrowser.net/)
+* [https://ifconfig.me/](https://ifconfig.me/) to get your IP address - [https://ifconfig.me/ip](https://ifconfig.me/ip) gives _just_ the IP address
