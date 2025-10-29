@@ -1,12 +1,19 @@
+# tmux
 
 Edit .tmux.conf file (mostly taken from https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 
 ```
 # Enable mouse mode (tmux 2.1 and above)
-set -g mode-mouse on
+set -g mouse on
 
 # Don't rename windows automatically
 set-option -g allow-rename off
+
+# Unbind ctrl+b
+unbind C-b
+
+# Bind ctrl+a
+set-option -g prefix C-a
 
 ######################
 ### DESIGN CHANGES ###
@@ -47,4 +54,3 @@ setw -g window-status-bell-style 'fg=colour255 bg=colour1 bold'
 # messages
 set -g message-style 'fg=colour232 bg=colour16 bold'
 ```
-
