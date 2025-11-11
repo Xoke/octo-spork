@@ -1,6 +1,7 @@
 # Table of contents
 
 * [octo-spork](README.md)
+* [applications](3dprinting/websites.md)
 * [applications](applications/README.md)
   * [firefox extensions](<applications/firefox extensions.md>)
 * [games](games/README.md)
