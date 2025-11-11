@@ -4,7 +4,7 @@ description: Silly things I reply to people who report phishing emails to me
 
 # Phishing Replies
 
-At work if anyone reports a phishing email, I receive it.  I like to put funny replies back to make them smile and make people more likely to report weird emails.  I don't mind if someone reports what they _thought_ was a weird email, but was just spam or similar, and not phishing.  Here are my replies - please feel free to use them yourself
+At work if anyone reports a phishing email, I receive it. I like to put funny replies back to make them smile and make people more likely to report weird emails. I don't mind if someone reports what they _thought_ was a weird email, but was just spam or similar, and not phishing. Here are my replies - please feel free to use them yourself
 
 All my emails follow the same outline:
 
@@ -82,15 +82,15 @@ Good catch! Thanks for reporting the phishing email, have a cookie
 
 <figure><img src="../.gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
 
-_Disclaimer: Cookie has no monetary value.  Void where prohibited by law.  One cookie per phishing email per user.  Email processed in a facility that contains nuts.  Not a source of fiber unless printed out and eaten.  Do not eat_
+_Disclaimer: Cookie has no monetary value. Void where prohibited by law. One cookie per phishing email per user. Email processed in a facility that contains nuts. Not a source of fiber unless printed out and eaten. Do not eat_
 
 ***
 
-Good catch!  Thanks for reporting the phishing email, have a cookie
+Good catch! Thanks for reporting the phishing email, have a cookie
 
 ![](../.gitbook/assets/unknown.jpeg)
 
-Disclaimer: Cookie has no monetary value.  Void where prohibited by law.  One cookie per phishing email per user.  Email processed in a facility that contains nuts.  Not a source of fiber unless printed out and eaten.  Do not eat
+Disclaimer: Cookie has no monetary value. Void where prohibited by law. One cookie per phishing email per user. Email processed in a facility that contains nuts. Not a source of fiber unless printed out and eaten. Do not eat
 
 ***
 
@@ -104,7 +104,7 @@ Disclaimer: This hat does not grant actual crocodile-wrestling skills. It won’
 
 Crikey! You’ve earned the Crocodile Hunter’s Hat for wrestling that phishing attempt. 🐊
 
-![](<../.gitbook/assets/unknown (4).png>)
+![](<../.gitbook/assets/unknown (3) (1).png>)
 
 Disclaimer: This hat does not grant actual crocodile-wrestling skills. It won’t help you tame wild animals or survive in the bush. Use your hat wisely!
 
@@ -200,9 +200,9 @@ Disclaimer: This trophy does not come with actual explosive capabilities. Please
 
 Greetings, Earthling! You’ve been awarded the Galactic Defender Badge for thwarting that phishing attempt
 
-<figure><img src="../.gitbook/assets/download (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-_Disclaimer: This badge does not grant interstellar travel privileges or the ability to communicate with extraterrestrials.  Any spelling errors are due to translation from galactic standard and not due to using AI to create image_
+_Disclaimer: This badge does not grant interstellar travel privileges or the ability to communicate with extraterrestrials. Any spelling errors are due to translation from galactic standard and not due to using AI to create image_
 
 ***
 
@@ -238,7 +238,7 @@ Disclaimer: This award does not grant actual ninja skills. It won’t help you s
 
 ***
 
-Good catch!  You're now an honorary member of the Phish Avengers.  Your superpower? Spotting fishy emails!
+Good catch! You're now an honorary member of the Phish Avengers. Your superpower? Spotting fishy emails!
 
 <figure><img src="../.gitbook/assets/image001 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -246,7 +246,7 @@ _Disclaimer: Cape doesn't grant flight, invisibility, or immunity to awkward soc
 
 ***
 
-Ahoy, matey! You've discovered the Phishing Pirate's Treasure Map.  X marks the spot where you found that sneaky email
+Ahoy, matey! You've discovered the Phishing Pirate's Treasure Map. X marks the spot where you found that sneaky email
 
 <figure><img src="../.gitbook/assets/image001 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -256,7 +256,7 @@ _Disclaimer: Map leads only to imaginary treasure chests filled with digital dou
 
 Ahoy, Matey! You've unlocked the Pirate's Parrot Award for spotting that phishing scam. 🦜 Avast ye!
 
-![](<../.gitbook/assets/unknown (1).jpeg>)
+![](<../.gitbook/assets/image001 (5) (1).jpg>)
 
 Disclaimer: This parrot does not grant the ability to speak pirate or find buried treasure. It excels only in squawking wisdom.
 
@@ -272,7 +272,7 @@ _Disclaimer: This treasure does not include real gold, jewels, or pirate ships. 
 
 Ahoy, Matey! You’ve earned the Pirate’s Treasure Chest for capturing that phishing scam. 🏴‍☠️
 
-![](<../.gitbook/assets/unknown (2).jpeg>)
+![](<../.gitbook/assets/image001 (1) (1).jpg>)
 
 Disclaimer: This treasure chest does not contain real gold or doubloons. It won’t help you buy a pirate ship or find buried treasure. Use your loot wisely!
 
@@ -302,15 +302,15 @@ Disclaimer: Scroll may not be accepted by actual wizards or IT auditors. Reading
 
 ***
 
-Good catch!  Thanks for reporting the phishing email, have a gold star
+Good catch! Thanks for reporting the phishing email, have a gold star
 
 <figure><img src="../.gitbook/assets/image001 (9).jpg" alt=""><figcaption></figcaption></figure>
 
-_Disclaimer: Star has no monetary value.  Void where prohibited by law.  One star per phishing email per user.  Do not print out, staple to your collar, and pretend you are a General_
+_Disclaimer: Star has no monetary value. Void where prohibited by law. One star per phishing email per user. Do not print out, staple to your collar, and pretend you are a General_
 
 ***
 
-Congratulations! You've earned the Cybersecurity Unicorn Horn for your vigilance.  Stay magical!
+Congratulations! You've earned the Cybersecurity Unicorn Horn for your vigilance. Stay magical!
 
 <figure><img src="../.gitbook/assets/image001 (10).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -325,6 +325,3 @@ Congratulations! You've been granted the Wizard's Spellbook for dispelling that 
 Disclaimer: (This spellbook contains no real magic. It won't help you turn your boss into a frog or make your coffee refill itself. Use your spells wisely!)
 
 ***
-
-
-
