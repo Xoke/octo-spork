@@ -26,5 +26,11 @@
 * [https://github.com/strozfriedberg/Velociraptor\_LMDA](https://github.com/strozfriedberg/Velociraptor_LMDA)
 * [https://mas.owasp.org/MASTG/](https://mas.owasp.org/MASTG/)
 * [https://github.com/ThioJoe/Windows-Sandbox-Tools/blob/main/Startup%20Scripts/SandboxStartup.ps1](https://github.com/ThioJoe/Windows-Sandbox-Tools/blob/main/Startup%20Scripts/SandboxStartup.ps1)
+* [https://everytimezone.com/](https://everytimezone.com/)
+* [https://bazzite.gg/](https://bazzite.gg/) (steam on linux distro)
+* [https://www.rocket.new/](https://www.rocket.new/) - AI to make webapps?
+* [https://github.com/mlocati/windows-sandbox-configuration-schema](https://github.com/mlocati/windows-sandbox-configuration-schema)
+* [https://texttospeech.online/](https://texttospeech.online/) and [https://elevenlabs.io/](https://elevenlabs.io/) (look sometimes I want to not use my voice)
+* [https://kick.com/](https://kick.com/) like twitch
+* [https://n8n.io/](https://n8n.io/) AI workflows
 *
-
